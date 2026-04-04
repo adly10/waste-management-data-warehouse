@@ -100,16 +100,6 @@ USE FinalProject;
 
 ---
 
-## 📸 Screenshots
-
-All required screenshots are available in:
-
-```
-/docs/screenshots/
-```
-
----
-
 ## 🎯 Skills Demonstrated
 
 * Data Warehouse Design (Star Schema)
@@ -122,5 +112,5 @@ All required screenshots are available in:
 
 ## 📌 Author
 
-Mahmoud
+Mahmoud Essam Adly
 Aspiring Data Engineer 🚀
